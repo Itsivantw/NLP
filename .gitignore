@@ -2,3 +2,8 @@
 .DS_Store
 .DS_Store
 HW4/output1.txt
+HW4/output2.txt
+HW4/output3.txt
+HW4/word2vec.model
+HW4/word2vec.model.wv.vectors.npy
+HW4/word2vec.model.syn1neg.npy
