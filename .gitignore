@@ -7,3 +7,5 @@ HW4/output3.txt
 HW4/word2vec.model
 HW4/word2vec.model.wv.vectors.npy
 HW4/word2vec.model.syn1neg.npy
+HW5/translation2019zh_train.json
+HW5/translation2019zh_valid.json
